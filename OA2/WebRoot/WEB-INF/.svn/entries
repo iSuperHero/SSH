@@ -1,0 +1,46 @@
+8
+
+dir
+44
+https://desktop-su305is/svn/myRepository/OA2/WebRoot/WEB-INF
+https://desktop-su305is/svn/myRepository
+
+
+
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e29159e6-5055-9546-9012-617bc9c67015
+
+classes
+dir
+
+lib
+dir
+
+web.xml
+file
+
+
+
+
+2017-12-11T02:40:19.552000Z
+b894d5302c9380acbf8e7c67c326caf7
+2017-12-11T03:08:35.457815Z
+44
+scott
+

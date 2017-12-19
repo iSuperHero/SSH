@@ -1,0 +1,94 @@
+8
+
+dir
+44
+https://desktop-su305is/svn/myRepository/OA2/WebRoot
+https://desktop-su305is/svn/myRepository
+
+
+
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e29159e6-5055-9546-9012-617bc9c67015
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+error.jsp
+file
+
+
+
+
+2017-12-10T10:31:42.205000Z
+7dc4a2cf86413eaa6fe12f8a62415c61
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+images
+dir
+
+index.jsp
+file
+
+
+
+
+2017-12-08T13:06:32.227000Z
+6d7b9c26e8f8475177035cb37b1a954d
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+js
+dir
+
+jsp
+dir
+
+login.jsp
+file
+
+
+
+
+2017-12-08T13:06:33.477000Z
+13edd91f91ed3d5e35d670dc82625054
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+welcome.html
+file
+
+
+
+
+2017-12-08T13:06:33.487000Z
+ea76bce8c554e513258aefd486e07648
+2017-12-11T03:08:35.457815Z
+44
+scott
+

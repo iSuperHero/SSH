@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:aop="http://www.springframework.org/schema/aop" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-3.2.xsd 
+	http://www.springframework.org/schema/aop 
+	http://www.springframework.org/schema/aop/spring-aop-3.2.xsd 
+	http://www.springframework.org/schema/context 
+	http://www.springframework.org/schema/context/spring-context-3.2.xsd 
+	http://www.springframework.org/schema/tx 
+	http://www.springframework.org/schema/tx/spring-tx-3.2.xsd ">
+	
+	<!-- 配置service -->
+	<bean id="employeeService" class="cn.jboa.service.impl.EmployeeServiceImpl">
+		<property name="employeeDao" ref="employeeDao"/>
+	</bean>
+	<bean id="claimVoucherService" class="cn.jboa.service.impl.ClaimVoucherServiceImpl">
+		<property name="claimVoucherDao" ref="claimVoucherDao"/>
+		<property name="claimVoucherDetailDao" ref="claimVoucherDetailDao"/>
+	</bean>
+	<bean id="leaveService" class="cn.jboa.service.impl.LeaveServiceImpl">
+		<property name="leaveDao" ref="leaveDao"/>
+	</bean>
+	<bean id="checkResultService" class="cn.jboa.service.impl.CheckResultServiceImpl">
+		<property name="checkResultDao" ref="checkResultDao"/>
+		<property name="employeeDao" ref="employeeDao"/>
+		<property name="claimVoucherDao" ref="claimVoucherDao"/>
+	</bean>
+	<bean id="claimVoucherStatisticsService" class="cn.jboa.service.impl.ClaimVoucherStatisticsServiceImpl">
+		<property name="claimVoucherStatisticsDao" ref="claimVoucherStatisticsDao"/>
+	</bean>
+	<bean id="claimVouyearStatisticsService" class="cn.jboa.service.impl.ClaimVouyearStatisticsServiceImpl">
+		<property name="claimVouyearStatisticsDao" ref="claimVouyearStatisticsDao"/>
+	</bean>
+	
+</beans>

@@ -1,0 +1,73 @@
+8
+
+dir
+43
+https://desktop-su305is/svn/myRepository/OA2
+https://desktop-su305is/svn/myRepository
+
+
+
+2017-12-11T03:08:11.146254Z
+43
+scott
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e29159e6-5055-9546-9012-617bc9c67015
+
+.classpath
+file
+44
+
+
+
+2017-12-08T13:06:28.437000Z
+b3b43c9ef4a31b434b12ae49f3c4ef0a
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+.mymetadata
+file
+44
+
+
+
+2017-12-11T02:53:15.135000Z
+bbc5ae3fb1200d9d377c3a1ca42ba25d
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+.project
+file
+44
+
+
+
+2017-12-11T02:40:18.422000Z
+553cd9ceaf568bff96450650e6158bc5
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+.settings
+dir
+
+WebRoot
+dir
+
+src
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim
+END
+claim_voucher_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim/claim_voucher_list.jsp
+END
+rollPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim/rollPage.jsp
+END
+claim_voucher_check.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim/claim_voucher_check.jsp
+END
+claim_voucher_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim/claim_voucher_edit.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim/error.jsp
+END
+claim_voucher_update.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim/claim_voucher_update.jsp
+END
+claim_voucher_view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/claim/claim_voucher_view.jsp
+END

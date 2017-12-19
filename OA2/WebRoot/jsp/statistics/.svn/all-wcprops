@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/statistics
+END
+compYearStatistics_detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/statistics/compYearStatistics_detail.jsp
+END
+compMonthStatistics_detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/statistics/compMonthStatistics_detail.jsp
+END
+deptMonthStatistics_detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/statistics/deptMonthStatistics_detail.jsp
+END
+deptMonthStatistics_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myRepository/!svn/ver/46/OA2/WebRoot/jsp/statistics/deptMonthStatistics_list.jsp
+END
+deptYearStatistics_detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/statistics/deptYearStatistics_detail.jsp
+END
+compMonthStatistics_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/statistics/compMonthStatistics_list.jsp
+END
+compYearStatistics_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/statistics/compYearStatistics_list.jsp
+END
+deptYearStatistics_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myRepository/!svn/ver/46/OA2/WebRoot/jsp/statistics/deptYearStatistics_list.jsp
+END

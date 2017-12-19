@@ -1,0 +1,55 @@
+8
+
+dir
+44
+https://desktop-su305is/svn/myRepository/OA2/WebRoot/js
+https://desktop-su305is/svn/myRepository
+
+
+
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e29159e6-5055-9546-9012-617bc9c67015
+
+My97DatePicker
+dir
+
+common.js
+file
+
+
+
+
+2017-12-08T13:06:32.877000Z
+a12e09544a37545841e03478b4f95fee
+2017-12-11T03:08:35.457815Z
+44
+scott
+
+jquery-1.8.0.min.js
+file
+
+
+
+
+2017-12-08T13:06:32.887000Z
+cd8b0bffc85bb5614385ee4ce3596d07
+2017-12-11T03:08:35.457815Z
+44
+scott
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/util
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myRepository/!svn/ver/45/OA2/src/cn/jboa/util/MD5.java
+END
+PageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/util/PageSupport.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myRepository/!svn/ver/45/OA2/src/cn/jboa/util/DateUtil.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myRepository/!svn/ver/45/OA2/src/cn/jboa/util/DateConverter.java
+END
+NumberFormatUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myRepository/!svn/ver/45/OA2/src/cn/jboa/util/NumberFormatUtil.java
+END
+RandomNumUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myRepository/!svn/ver/45/OA2/src/cn/jboa/util/RandomNumUtil.java
+END

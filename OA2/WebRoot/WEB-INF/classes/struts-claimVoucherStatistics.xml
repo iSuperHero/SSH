@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<package name="claimVoucherStatistics" extends="struts-default" namespace="/jsp/statistics">
+		<action name="claimVoucherStatistics_*" class="cn.jboa.action.ClaimVoucherStatisticsAction" method="{1}">
+			<result name="list">deptMonthStatistics_list.jsp</result>
+			<result name="view">deptMonthStatistics_detail.jsp</result>
+		</action>
+		
+		<action name="deptStatistics_*" class="cn.jboa.action.ClaimVouyearStatisticsAction" method="{1}">
+			<result name="list">deptYearStatistics_list.jsp</result>
+			<result name="view">deptYearStatistics_detail.jsp</result>
+		</action>
+	</package>
+	
+</struts>

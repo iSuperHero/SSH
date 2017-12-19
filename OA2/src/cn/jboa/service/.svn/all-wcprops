@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/service
+END
+ClaimVoucherStatisticsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myRepository/!svn/ver/46/OA2/src/cn/jboa/service/ClaimVoucherStatisticsService.java
+END
+ClaimVoucherService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/service/ClaimVoucherService.java
+END
+LeaveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/service/LeaveService.java
+END
+EmployeeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/service/EmployeeService.java
+END
+CheckResultService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/service/CheckResultService.java
+END
+ClaimVouyearStatisticsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myRepository/!svn/ver/46/OA2/src/cn/jboa/service/ClaimVouyearStatisticsService.java
+END

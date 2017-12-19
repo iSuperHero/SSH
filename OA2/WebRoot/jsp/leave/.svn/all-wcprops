@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/leave
+END
+leave_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/leave/leave_list.jsp
+END
+leave_view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/leave/leave_view.jsp
+END
+leave_check.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/leave/leave_check.jsp
+END
+leave_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/44/OA2/WebRoot/jsp/leave/leave_edit.jsp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/dao
+END
+ClaimVoucherDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/dao/ClaimVoucherDetailDao.java
+END
+ClaimVoucherStatisticsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myRepository/!svn/ver/46/OA2/src/cn/jboa/dao/ClaimVoucherStatisticsDao.java
+END
+ClaimVoucherDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/dao/ClaimVoucherDao.java
+END
+EmployeeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/dao/EmployeeDao.java
+END
+CheckResultDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/dao/CheckResultDao.java
+END
+ClaimVouyearStatisticsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myRepository/!svn/ver/46/OA2/src/cn/jboa/dao/ClaimVouyearStatisticsDao.java
+END
+LeaveDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/dao/LeaveDao.java
+END

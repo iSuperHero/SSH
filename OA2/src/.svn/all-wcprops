@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/myRepository/!svn/ver/44/OA2/src
+END
+struts-claimVoucherStatistics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/myRepository/!svn/ver/46/OA2/src/struts-claimVoucherStatistics.xml
+END
+cn.jboa.action.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/myRepository/!svn/ver/44/OA2/src/cn.jboa.action.xml
+END
+cn.jboa.service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/myRepository/!svn/ver/46/OA2/src/cn.jboa.service.xml
+END
+struts-claimVoucher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/myRepository/!svn/ver/44/OA2/src/struts-claimVoucher.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/myRepository/!svn/ver/44/OA2/src/log4j.properties
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/myRepository/!svn/ver/44/OA2/src/hibernate.cfg.xml
+END
+cn.jboa.dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/myRepository/!svn/ver/46/OA2/src/cn.jboa.dao.xml
+END
+struts-leave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/myRepository/!svn/ver/44/OA2/src/struts-leave.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myRepository/!svn/ver/44/OA2/src/applicationContext.xml
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/myRepository/!svn/ver/46/OA2/src/struts.xml
+END

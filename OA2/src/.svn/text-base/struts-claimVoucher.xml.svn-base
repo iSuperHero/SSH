@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<package name="claimVoucher" extends="struts-default" namespace="/jsp/claim">
+		<action name="claimVoucher_*" class="claimVoucherAction" method="{1}">
+			<result name="list">claim_voucher_list.jsp</result>
+			<result name="view">claim_voucher_view.jsp</result>
+			<result name="add">claim_voucher_edit.jsp</result>
+			<result name="redirectList" type="redirectAction">claimVoucher_searchClaimVoucher</result>
+			<result name="update">claim_voucher_update.jsp</result>
+			<result name="check">claim_voucher_check.jsp</result>
+		</action>
+		<action name="checkResult_*" class="cn.jboa.action.CheckResultAction" method="{1}">
+			<result name="success" type="redirectAction">claimVoucher_searchClaimVoucher</result>
+			<result name="input">claim_voucher_check.jsp</result>
+		</action>
+	</package>
+	
+</struts>

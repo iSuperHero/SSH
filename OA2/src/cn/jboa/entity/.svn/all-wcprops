@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity
+END
+ClaimVouyearStatistics.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVouyearStatistics.hbm.xml
+END
+ClaimVoucher.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVoucher.hbm.xml
+END
+ClaimVoucherStatistics.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVoucherStatistics.hbm.xml
+END
+ClaimVoucher.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVoucher.java
+END
+ClaimVoucherDetail.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVoucherDetail.hbm.xml
+END
+CheckResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/CheckResult.java
+END
+Employee.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Employee.hbm.xml
+END
+ClaimVouyearStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVouyearStatistics.java
+END
+Position.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Position.hbm.xml
+END
+ClaimVoucherStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVoucherStatistics.java
+END
+CheckResult.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/CheckResult.hbm.xml
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Employee.java
+END
+Leave.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Leave.hbm.xml
+END
+Department.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Department.hbm.xml
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Position.java
+END
+Department.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Department.java
+END
+ClaimVoucherDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/ClaimVoucherDetail.java
+END
+Leave.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myRepository/!svn/ver/44/OA2/src/cn/jboa/entity/Leave.java
+END
